@@ -1,5 +1,10 @@
-## Hi there 👋
+Hi! My name is Gabbie, and I'm currently a senior at the University of Central Florida, pursuing my bachelor's degree in computer science, minor in statistics, and minor in computing opportunities for degree enhancement (CODE) at the University of Central Florida. 
 
+Earlier this year, I worked as a Help Desk Technician, where I resolved over 180 customer support requests via phone, email, and dashboard, while documenting technical issues using the Kayako ticketing system. In this role, I also maintained and updated the company website, RTC Group, using WordPress, where I implemented UI improvements.
+
+During this summer, I had the opportunity to work as a Technology Solutions intern, where I collaborated with my team to develop three proofs of concepts and workflows to automate the identity lifecycle for on-premises applications. I've gained experience in Microsoft Azure Cloud services, Graph API, PowerShell, Active Directory Domain Services, Identity Access Management (IAM), Azure Logic Apps, Microsoft SCIM, and a third party called SailPoint.
+
+My coursework and projects provide me with experience in both frontend (Figma, HTML, and CSS) and backend (JavaScript, SQL, Java, C, and Python) technologies. I'm especially passionate about using design to create meaningful user experiences.
 <!--
 **gabbiecoronel/gabbiecoronel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
