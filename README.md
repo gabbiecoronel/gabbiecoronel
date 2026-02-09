@@ -1,12 +1,8 @@
-### Hi! My name is Gabbie, and I'm currently a senior at the University of Central Florida, pursuing my bachelor's degree in computer science, minor in statistics, and minor in computing opportunities for degree enhancement (CODE) at the University of Central Florida. 
+Hi! My name is Gabbie, and I’m a senior at the University of Central Florida pursuing a bachelor’s degree in Computer Science, with minors in Statistics and Computing Opportunities for Degree Enhancement (CODE).
 
-Earlier this year, I worked as a Help Desk Technician, where I resolved over 180 customer support requests via phone, email, and dashboard, while documenting technical issues using the Kayako ticketing system. In this role, I also maintained and updated the company website, RTC Group, using WordPress, where I implemented UI improvements.
+I have hands-on experience in IT support, systems administration, and cloud-based identity and access management, having worked across help desk and internship roles in enterprise environments. My experience includes supporting end users, managing user lifecycles, working with Active Directory and Azure services, automating workflows, and collaborating on technical solutions that improve operational efficiency.
 
-During this summer, I had the opportunity to work as a Technology Solutions intern, where I collaborated with my team to develop three proofs of concepts and workflows to automate the identity lifecycle for on-premises applications. I've gained experience in Microsoft Azure Cloud services, Graph API, PowerShell, Active Directory Domain Services, Identity Access Management (IAM), Azure Logic Apps, Microsoft SCIM, and a third party called SailPoint.
-
-Currently, I'm interning at Conti Federal Services as an IT intern, where I've provided end-user support for hardware, software, and connectivity issues using ManageEngine Endpoint Management and ServiceDesk Ticketing System. I'm also responsible for administering Active Directory, Azure, and EntraID accounts, including onboarding/offboarding users, computers, phones, and domain accounts.
-
-My coursework and projects provide me with experience in both frontend (Figma, HTML, and CSS) and backend (JavaScript, SQL, Java, C, and Python) technologies. I'm especially passionate about using design to create meaningful user experiences.
+Alongside my technical background, I’ve developed strong problem-solving and communication skills through direct user support and cross-functional teamwork. I’m particularly interested in transitioning into data analytics, data science, or machine learning roles, where I can combine my programming experience, statistics background, and real-world technical experience to extract insights and support data-driven decision-making.
 <!--
 **gabbiecoronel/gabbiecoronel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
